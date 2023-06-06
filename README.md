@@ -1,6 +1,9 @@
 # Evaluating-Boolean-relationships-in-CCMs
-This repository contains the R scripts and data of the simulation experiment discussed in the research article 'Evaluating Boolean relationships in Configurational Comparative Methods'.
+This repository contains supplementary material for the research article 'Evaluating Boolean relationships in Configurational Comparative Methods'.
 
+def_contrapositives.R contains definitions of functions to calculate contrapositive consistency and contrapositive coverage.
+
+The folder 'Simulation experiment' contains R scripts and data of the simulation experiment discussed in the article:
 
 simulation_script.R runs the experiment.
 
